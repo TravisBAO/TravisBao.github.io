@@ -52,6 +52,5 @@ The new gereated ssh key is located in folder .ssh in above path.
 ### 5. Select the type of key: authentication.
 
 ### 6. Paste your key "id_rsa.pub" into the "Key" field.
-![picture](/img/ssh-key-paste-with-type.pngimage.png "图片title")
-
+![picture](img/ssh-key-paste-with-type.png)
 ### 7. Click **Add SSH key**
