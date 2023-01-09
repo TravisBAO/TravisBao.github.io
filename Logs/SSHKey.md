@@ -1,3 +1,7 @@
+layout: page
+title: "SSHKey"
+permalink: /Logs/SSHKey
+
 ## Generating a new SSH key
 You can generate a new SSH key on your local machine. After you generate the key, you can add the key to your account on GitHub.com to enable authentication for Git operations over SSH.
 
