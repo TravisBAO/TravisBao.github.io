@@ -1,8 +1,9 @@
-Record everything for memory.
-Thanks Dean Attali to provide the blog template.  
+**Record everything for memory.
+
+Thanks Dean Attali to provide the blog template.  **
 
 
-[![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
+
 
 # Beautiful Jekyll
 
