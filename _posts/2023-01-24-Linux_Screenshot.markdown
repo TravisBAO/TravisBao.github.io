@@ -3,7 +3,6 @@ layout: post
 title:  "Screenshot in Linux"
 subtitle: How to capture the screenshot in Linux
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 date:   2023-01-24 20:01:27 -0500
 tags: [Linux]
 comments: true
