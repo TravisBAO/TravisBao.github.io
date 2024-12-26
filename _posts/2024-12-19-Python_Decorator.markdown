@@ -2,7 +2,7 @@
 layout: post
 title:  "Python Decorator"
 subtitle: Python Decorator
-date:   2024-12-26 20:01:27 -0500
+date:   2024-12-25 20:01:27 -0500
 tags: [Python]
 comments: true
 ---
