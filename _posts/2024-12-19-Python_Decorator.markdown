@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Screenshot in Linux"
-subtitle: How to capture the screenshot in Linux
-date:   2023-01-24 20:01:27 -0500
-tags: [Linux]
+title:  "Python Decorator"
+subtitle: Python Decorator
+date:   2024-12-26 20:01:27 -0500
+tags: [Python]
 comments: true
 ---
 
